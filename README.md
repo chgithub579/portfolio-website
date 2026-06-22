@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-Welcome to my personal portfolio website! This portfolio showcases my skills, projects, achievements, and professional journey as a Software Developer.
+Welcome to my personal portfolio website! This portfolio showcases my skills, projects, achievements, and professional journey.
 
 🔗 **Live Demo:** https://portfolio-website-123-hkemj5q1d-manjula1.vercel.app/
 
